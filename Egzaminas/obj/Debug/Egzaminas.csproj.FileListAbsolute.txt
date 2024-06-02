@@ -1,0 +1,10 @@
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.csproj.AssemblyReference.cache
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.Properties.Resources.resources
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.csproj.GenerateResource.cache
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.csproj.CoreCompileInputs.cache
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\bin\Debug\Egzaminas.exe.config
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\bin\Debug\Egzaminas.exe
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\bin\Debug\Egzaminas.pdb
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.exe
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\Egzaminas.pdb
+C:\Universitetas\Visual studio\Egzaminas\Egzaminas\obj\Debug\WinFormsApp2.Form1.resources
